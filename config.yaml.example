@@ -1,0 +1,7 @@
+server:
+  port: ":8080"
+
+llm:
+  openai:
+    api_key: "your-sk-xxxxxx"
+    base_url: "https://api.openai.com"
